@@ -1,0 +1,55 @@
+{
+  "conditions": [
+    {
+      "name": "Thyroid",
+      "imagesrc": "https://www.shutterstock.com/image-illustration/thyroid-gland-inside-human-body-260nw-636519110.jpg",
+      "symptoms": [
+        "Fatigue",
+        "Weight gain or loss",
+        "Dry skin",
+        "Muscle weakness",
+        "Irregular menstrual periods"
+      ],
+      "prevention": [
+        "Eat a balanced diet",
+        "Exercise regularly",
+        "Get regular check-ups"
+      ],
+      "treatment": "Medication like levothyroxine may be prescribed by a doctor."
+    },
+    {
+      "name": "Diabetes",
+      "imagesrc": "https://www.pathologyasia.com/wp-content/uploads/Diabetes-Overview-1-768x768.png",
+      "symptoms": [
+        "Frequent urination",
+        "Increased thirst",
+        "Blurry vision",
+        "Fatigue",
+        "Slow healing of cuts or sores"
+      ],
+      "prevention": [
+        "Maintain a healthy weight",
+        "Follow a balanced diet",
+        "Regular exercise"
+      ],
+      "treatment": "Management includes medication, insulin therapy, and lifestyle changes."
+    },
+    {
+      "name": "High Blood Pressure",
+      "imagesrc": "https://www.disabled-world.com/pics/1/high-blood-pressure-complications.jpg",
+      "symptoms": [
+        "Headaches",
+        "Shortness of breath",
+        "Chest pain",
+        "Dizziness",
+        "Blurred or double vision"
+      ],
+      "prevention": [
+        "Reduce salt intake",
+        "Exercise regularly",
+        "Maintain a healthy weight"
+      ],
+      "treatment": "Medications like ACE inhibitors or diuretics may be prescribed."
+    }
+  ]
+}
